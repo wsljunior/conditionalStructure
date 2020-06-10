@@ -17,6 +17,7 @@ public class program {
 		} else {
 			System.out.println("Odd");
 		}
+		sc.close();
 	}
 
 }
